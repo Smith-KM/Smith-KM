@@ -1,4 +1,3 @@
-My profile
 I am a passionate Accountant with 4 years of experience in both public and private accounting. Recently, my interest in Software Engineering has grown, and I am currently developing my skills as a web developer. I have experience with HTML and CSS and am actively learning JavaScript.
 
 I am presently employed as a Senior Accountant at WhCorporate Chartered Accountants, where I specialize in financial reporting and compilation.
